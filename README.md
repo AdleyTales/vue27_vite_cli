@@ -71,9 +71,9 @@ pnpm i @vitejs/plugin-vue2 -D
 - 建议js改成ts，很多错误会提示
 
 ## 涉及的链接
-![https://www.npmjs.com/package/vue](https://www.npmjs.com/package/vue)
-![https://github.com/vitejs/vite-plugin-vue2/tree/main/playground](https://github.com/vitejs/vite-plugin-vue2/tree/main/playground)
-![https://pinia.vuejs.org/](https://pinia.vuejs.org/)
-![https://github.com/unocss/unocss](https://github.com/unocss/unocss)
+- ![https://www.npmjs.com/package/vue](https://www.npmjs.com/package/vue)
+- ![https://github.com/vitejs/vite-plugin-vue2/tree/main/playground](https://github.com/vitejs/vite-plugin-vue2/tree/main/playground)
+- ![https://pinia.vuejs.org/](https://pinia.vuejs.org/)
+- ![https://github.com/unocss/unocss](https://github.com/unocss/unocss)
 
 
